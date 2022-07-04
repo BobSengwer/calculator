@@ -1,6 +1,6 @@
 /*
 project:    simple calculator that takes two numbers and output the sum,difference,product and quotient of the numbers
-Author:     Walter Kiptum
+Author:     Bryan Kiprop
 Compiler:   C89
 License:    MIT
 Date:       July 2022
